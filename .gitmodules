@@ -31,3 +31,6 @@
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = git://github.com/tomtom/tlib_vim
+[submodule "bundle/vim-gdbmgr"]
+	path = bundle/vim-gdbmgr
+	url = git://github.com/vim-scripts/gdbmgr
