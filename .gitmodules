@@ -34,3 +34,6 @@
 [submodule "bundle/vim-gdbmgr"]
 	path = bundle/vim-gdbmgr
 	url = git://github.com/vim-scripts/gdbmgr
+[submodule "bundle/javacomplete"]
+	path = bundle/javacomplete
+	url = git://github.com/vim-scripts/javacomplete
